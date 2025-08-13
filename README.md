@@ -3,9 +3,11 @@ Simple script for linux to interact with ai-assistant by global hot-key.
 
 ## Getting Started
 
-1. Copy the files to any folder.
-2. Edit the .config file and add your OpenAI or DeepSeek token. You can also change the model if you wish.
-3. Set a global hotkey to launch the script file. In Ubuntu, you do this through Settings -> Keyboard -> View and Customize hotkeys -> Custom hotkeys.
+1. Download ai_assistant.sh and ai_config.conf.
+3. Copy the files to any folder.
+4. Make script file runnable.
+5. Edit the .config file and add your OpenAI or DeepSeek token. You can also change the model if you wish.
+6. Set a global hotkey to launch the script file. In Ubuntu, you do this through Settings -> Keyboard -> View and Customize hotkeys -> Custom hotkeys.
 
 ## How to Use
 
