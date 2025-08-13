@@ -1,5 +1,5 @@
 # AI-assistant script
-Simple script for linux to interact with ai-assistant by global hot-key.
+Fast and simple script for linux to interact with ai-assistant by global hot-key.
 
 ## Getting Started
 
